@@ -16,7 +16,7 @@
         <scala.binary.version>2.11</scala.binary.version>
 
         <dockerfile.version>1.4.3</dockerfile.version>
-        <docker.image.prefix>surevine</docker.image.prefix>
+        <docker.image.prefix>myimage</docker.image.prefix>
     </properties>
     <repositories>
         <repository>
